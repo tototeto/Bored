@@ -1,0 +1,62 @@
+body {
+	background-image: url('https://static.pexels.com/photos/34950/pexels-photo.jpg');
+	margin: 2%;
+	font-family: 'Raleway', sans-serif;
+}
+
+#title {
+	background-color: #c4e;
+	border: 3px double black;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	text-align: center;
+}
+
+h1 {
+	border: 3px solid black;
+	width: 30%;
+	border-radius: 5px;
+	background-color: #78f;
+	box-shadow: 5px 5px 5px #505;
+	margin: auto;
+}
+
+i {
+	color: #555;
+}
+
+#b {
+	border: 3px double black;
+	background-image: url('https://wallpaperscraft.com/image/art_star_tree_sky_space_93472_3840x2160.jpg');
+	padding: 8px;
+	margin-top: 10px;
+}
+
+h2 {
+	border: 3px solid black;
+	width: 30%;
+	border-radius: 5px;
+	background-color: #78f;
+	box-shadow: 5px 5px 5px #black;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 7px;
+	text-align: center;
+}
+
+.chap {
+	border: 3px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+	margin: auto;
+	width: 50%;
+	margin-bottom: 10px;
+	background-color: #afa;
+	padding: 2px 15px;
+	
+}
+
+h3 {
+	text-align: center;
+}
